@@ -1,0 +1,7 @@
+{
+  "number": 4,
+  "title": "Change Directory",
+  "description": "Level 4: Change into the directory you just created ('testfolder').",
+  "expected_command": "cd testfolder",
+  "hint": "Use the command that changes your current directory to another location."
+}

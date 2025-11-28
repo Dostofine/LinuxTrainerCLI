@@ -1,0 +1,7 @@
+{
+  "number": 12,
+  "title": "Copy a File",
+  "description": "Level 12: Make a copy of 'notes_backup.txt' called 'copy.txt'.",
+  "expected_command": "cp notes_backup.txt copy.txt",
+  "hint": "Use the copy command with the source file and the destination file as arguments."
+}

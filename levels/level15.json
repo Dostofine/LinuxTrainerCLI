@@ -1,0 +1,7 @@
+{
+  "number": 15,
+  "title": "View Bottom of File",
+  "description": "Level 15: View the end of 'notes_backup.txt'. This shows the last lines of the file.",
+  "expected_command": "tail notes_backup.txt",
+  "hint": "Use the command that displays the tail (end) of a file."
+}

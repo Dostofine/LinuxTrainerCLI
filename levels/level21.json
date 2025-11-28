@@ -1,0 +1,7 @@
+{
+  "number": 21,
+  "title": "Clear Screen",
+  "description": "Level 21: Clear the terminal screen to keep things tidy.",
+  "expected_command": "clear",
+  "hint": "One simple word clears your screen completely."
+}

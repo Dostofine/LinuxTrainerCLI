@@ -1,0 +1,7 @@
+{
+  "number": 7,
+  "title": "Remove a File",
+  "description": "Level 7: Remove (delete) the file 'myfile.txt'.",
+  "expected_command": "rm myfile.txt",
+  "hint": "Use the remove command followed by the file name to delete it."
+}

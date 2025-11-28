@@ -1,0 +1,7 @@
+{
+  "number": 11,
+  "title": "Rename a File",
+  "description": "Level 11: Rename 'notes.txt' to 'notes_backup.txt'.",
+  "expected_command": "mv notes.txt notes_backup.txt",
+  "hint": "The 'move' command can also rename files. Provide the old name and the new name."
+}

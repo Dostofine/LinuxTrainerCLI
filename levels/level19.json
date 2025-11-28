@@ -1,0 +1,7 @@
+{
+  "number": 19,
+  "title": "Echo Text",
+  "description": "Level 19: Display the text 'Hello World' in the terminal. Quotes are important to preserve the spaces.",
+  "expected_command": "echo \"Hello World\"",
+  "hint": "Use the command that prints text to the screen, followed by your message in quotes."
+}

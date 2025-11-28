@@ -1,0 +1,7 @@
+{
+  "number": 22,
+  "title": "Change Permissions",
+  "description": "Level 22: Make the file 'trainer.py' executable by adding execute permissions.",
+  "expected_command": "chmod +x trainer.py",
+  "hint": "Use the command that changes file permissions. Add '+x' to grant execute permission."
+}

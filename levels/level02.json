@@ -1,0 +1,7 @@
+{
+  "number": 2,
+  "title": "List Files",
+  "description": "Level 2: List the files and directories in the current folder. This helps you see what's around you.",
+  "expected_command": "ls",
+  "hint": "The command to list files is just two letters long."
+}

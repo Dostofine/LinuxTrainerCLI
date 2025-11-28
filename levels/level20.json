@@ -1,0 +1,7 @@
+{
+  "number": 20,
+  "title": "Who Am I?",
+  "description": "Level 20: Show your current user name.",
+  "expected_command": "whoami",
+  "hint": "It's literally the words 'who am I' concatenated together, no spaces."
+}

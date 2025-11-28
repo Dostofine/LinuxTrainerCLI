@@ -1,0 +1,7 @@
+{
+  "number": 5,
+  "title": "Create a File",
+  "description": "Level 5: Inside 'testfolder', create an empty file named 'myfile.txt'.",
+  "expected_command": "touch myfile.txt",
+  "hint": "There's a command that updates the timestamp of a file or creates it if it doesn't exist."
+}

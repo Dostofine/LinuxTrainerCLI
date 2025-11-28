@@ -1,0 +1,7 @@
+{
+  "number": 17,
+  "title": "Find a File",
+  "description": "Level 17: Find a file named 'trainer.py'.",
+  "expected_command": "find -name trainer.py",
+  "hint": "Use the command that walks through directories to locate files."
+}

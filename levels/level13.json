@@ -1,0 +1,7 @@
+{
+  "number": 13,
+  "title": "Edit a File",
+  "description": "Level 13: Open (or create) a file named 'journal.txt' in a terminal-based text editor.",
+  "expected_command": "nano journal.txt",
+  "hint": "Use a simple editor that starts with 'n'. If you prefer, 'vi' also works."
+}

@@ -1,0 +1,7 @@
+{
+  "number": 9,
+  "title": "Remove a Directory",
+  "description": "Level 9: Now remove the directory 'testfolder'. Make sure it's empty first!",
+  "expected_command": "rmdir testfolder",
+  "hint": "There's a command specifically for removing empty directories."
+}

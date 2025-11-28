@@ -1,0 +1,7 @@
+{
+  "number": 6,
+  "title": "View File Contents",
+  "description": "Level 6: View the contents of 'myfile.txt'. It might be empty, but that's okay!",
+  "expected_command": "cat myfile.txt",
+  "hint": "This command concatenates files and prints them. Use it to display file contents."
+}

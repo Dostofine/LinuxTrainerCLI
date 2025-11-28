@@ -1,0 +1,7 @@
+{
+  "number": 8,
+  "title": "Go Up One Directory",
+  "description": "Level 8: Move back to the parent directory from 'testfolder'.",
+  "expected_command": "cd ..",
+  "hint": "Two dots represent the parent directory. Use the change directory command with '..'."
+}

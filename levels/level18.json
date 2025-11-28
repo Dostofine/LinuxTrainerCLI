@@ -1,0 +1,7 @@
+{
+  "number": 18,
+  "title": "Manual Pages",
+  "description": "Level 18: Display the manual page for the 'ls' command to learn more about its options.",
+  "expected_command": "man ls",
+  "hint": "Use the command that shows the manual (documentation) for other commands."
+}

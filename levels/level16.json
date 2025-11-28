@@ -1,0 +1,7 @@
+{
+  "number": 16,
+  "title": "Search for Text",
+  "description": "Level 16: Search for the word 'def' in the file 'trainer.py'. This will show lines containing function definitions.",
+  "expected_command": "grep def trainer.py",
+  "hint": "Use the command that globally searches for patterns within files (4 letters)."
+}

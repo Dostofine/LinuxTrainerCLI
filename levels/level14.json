@@ -1,0 +1,7 @@
+{
+  "number": 14,
+  "title": "View Top of File",
+  "description": "Level 14: View the beginning of 'notes_backup.txt'. This shows the first few lines of the file.",
+  "expected_command": "head notes_backup.txt",
+  "hint": "Use the command that displays the first part (head) of a file."
+}

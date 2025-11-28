@@ -1,0 +1,7 @@
+{
+  "number": 3,
+  "title": "Make a Directory",
+  "description": "Level 3: Create a new directory named 'testfolder' in the current directory.",
+  "expected_command": "mkdir testfolder",
+  "hint": "Use the 'make directory' command followed by the name of the directory (in this case, 'testfolder')."
+}

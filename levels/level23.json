@@ -1,0 +1,7 @@
+{
+  "number": 23,
+  "title": "Command History",
+  "description": "Level 23: Show your recent command history. This can remind you what you've typed previously.",
+  "expected_command": "history",
+  "hint": "Use the command that displays the list of recently executed commands in your shell."
+}

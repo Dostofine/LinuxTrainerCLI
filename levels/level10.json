@@ -1,0 +1,7 @@
+{
+  "number": 10,
+  "title": "Create Another File",
+  "description": "Level 10: Create an empty file called 'notes.txt' in the current directory.",
+  "expected_command": "touch notes.txt",
+  "hint": "Use the same command you used earlier to create files; just change the file name."
+}

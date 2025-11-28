@@ -1,0 +1,7 @@
+{
+  "number": 1,
+  "title": "Print Working Directory",
+  "description": "Level 1: You are in a shell, but you don't know where. Use the command to print your current working directory (the folder you are in).",
+  "expected_command": "pwd",
+  "hint": "Use the command that stands for 'print working directory'."
+}
