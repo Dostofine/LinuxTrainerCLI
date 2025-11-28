@@ -1,6 +1,6 @@
 # LinuxTrainer CLI – Interactive Linux Command Trainer
 
-LinuxTrainer CLI is a command-line application designed for beginners. It teaches basic Linux commands through interactive levels. This extended version includes 23 levels, coloured output, logging of your attempts, and helpful hints. It is designed for students who are learning Linux and want a practical, hands-on way to practise common commands.**
+**LinuxTrainer CLI is a command-line application designed for beginners. It teaches basic Linux commands through interactive levels. This extended version includes 23 levels, coloured output, logging of your attempts, and helpful hints. It is designed for students who are learning Linux and want a practical, hands-on way to practise common commands.**
 
 ## Features
 
